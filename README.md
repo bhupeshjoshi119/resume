@@ -17,4 +17,4 @@ Follow these steps to install and run the project locally:
    git clone https://github.com/bhupeshjoshi119/resume.git
 
 
-2-Deployed on :https://shiny-hummingbird-f8ee04.netlify.app/
+2-Deployed on :https://adorable-belekoy-95c4fd.netlify.app/
